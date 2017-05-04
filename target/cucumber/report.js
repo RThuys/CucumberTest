@@ -58,8 +58,8 @@ formatter.match({
   "location": "annotation.enterUsername(String)"
 });
 formatter.result({
-  "duration": 166070058,
-  "error_message": "java.lang.NullPointerException\r\n\tat Annotation.annotation.enterUsername(annotation.java:23)\r\n\tat ✽.When I enter username as \"TOM\"(Annotation/outline.feature:10)\r\n",
+  "duration": 154924976,
+  "error_message": "java.lang.NullPointerException\r\n\tat Annotation.annotation.enterUsername(annotation.java:25)\r\n\tat ✽.When I enter username as \"TOM\"(Annotation/outline.feature:10)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -137,8 +137,8 @@ formatter.match({
   "location": "annotation.enterUsername(String)"
 });
 formatter.result({
-  "duration": 331061,
-  "error_message": "java.lang.NullPointerException\r\n\tat Annotation.annotation.enterUsername(annotation.java:23)\r\n\tat ✽.When I enter username as \"TOM\"(Annotation/outline.feature:16)\r\n",
+  "duration": 296296,
+  "error_message": "java.lang.NullPointerException\r\n\tat Annotation.annotation.enterUsername(annotation.java:25)\r\n\tat ✽.When I enter username as \"TOM\"(Annotation/outline.feature:16)\r\n",
   "status": "failed"
 });
 formatter.match({
